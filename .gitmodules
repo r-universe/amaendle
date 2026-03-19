@@ -1,5 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/amaendle/amaendle.r-universe.dev
 	branch = HEAD
+[submodule "PUcopula"]
+	path = PUcopula
+	url = https://github.com/bips-hb/PUcopula
+[submodule "PUcopulaSynth"]
+	path = PUcopulaSynth
+	url = https://github.com/amaendle/PUcopulaSynth
+[submodule "dsPUcopula"]
+	path = dsPUcopula
+	url = https://github.com/bips-hb/dsPUcopula
+[submodule "dsPUcopulaClient"]
+	path = dsPUcopulaClient
+	url = https://github.com/bips-hb/dsPUcopulaClient
+[submodule "ggiraphAlluvial"]
+	path = ggiraphAlluvial
+	url = https://github.com/amaendle/ggiraphAlluvial
+[submodule "mvGoF"]
+	path = mvGoF
+	url = https://github.com/bips-hb/mvGoF
+[submodule "mvInterpolation"]
+	path = mvInterpolation
+	url = https://github.com/bips-hb/mvInterpolation
+[submodule "mvTargetOpt"]
+	path = mvTargetOpt
+	url = https://github.com/bips-hb/mvTargetOpt
