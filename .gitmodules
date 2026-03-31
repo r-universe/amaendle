@@ -10,10 +10,10 @@
 	url = https://github.com/amaendle/PUcopulaSynth
 [submodule "dsPUcopula"]
 	path = dsPUcopula
-	url = https://github.com/amaendle/dsPUcopula
+	url = https://github.com/bips-hb/dsPUcopula
 [submodule "dsPUcopulaClient"]
 	path = dsPUcopulaClient
-	url = https://github.com/amaendle/dsPUcopulaClient
+	url = https://github.com/bips-hb/dsPUcopulaClient
 [submodule "ggiraphAlluvial"]
 	path = ggiraphAlluvial
 	url = https://github.com/amaendle/ggiraphAlluvial
