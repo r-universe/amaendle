@@ -8,6 +8,9 @@
 [submodule "PUcopulaSynth"]
 	path = PUcopulaSynth
 	url = https://github.com/amaendle/PUcopulaSynth
+[submodule "QRMlib"]
+	path = QRMlib
+	url = https://github.com/amaendle/QRMlib
 [submodule "dsPUcopula"]
 	path = dsPUcopula
 	url = https://github.com/bips-hb/dsPUcopula
