@@ -13,7 +13,7 @@
 	url = https://github.com/amaendle/QRMlib
 [submodule "dsPUcopula"]
 	path = dsPUcopula
-	url = https://github.com/bips-hb/dsPUcopula
+	url = https://github.com/amaendle/dsPUcopula
 [submodule "dsPUcopulaClient"]
 	path = dsPUcopulaClient
 	url = https://github.com/bips-hb/dsPUcopulaClient
